@@ -31,6 +31,7 @@ Database:
 ```
 > python manage.py makemigrations
 > python manage.py migrate
+```
 
 Technologies Used:
 ```
