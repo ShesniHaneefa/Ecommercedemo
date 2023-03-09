@@ -31,3 +31,11 @@ Database:
 ```
 > python manage.py makemigrations
 > python manage.py migrate
+
+Technologies Used:
+```
+1.Django
+2.HTML
+3.CSS
+4.Bootstrap
+```
